@@ -1,43 +1,90 @@
-Hi 👋 I'm Pramod
+# Hi 👋 I'm Pramod
 
-Backend Software Engineer from India 🇮🇳
+**Backend Engineer | AI • Distributed Systems | Node.js • Python • Java**
 
-I enjoy building scalable backend systems, distributed applications, and developer tools. I'm passionate about open source and continuously learning by contributing to real-world projects.
+I build backend systems, distributed applications, and AI-powered developer tools.
 
-🚀 Currently
+My work focuses on **APIs, asynchronous processing, caching, event-driven systems, and AI/LLM applications**.
 
-- 💼 Backend Engineer
-- 🌱 Learning Go and advanced Java/Spring Boot
-- 🔭 Contributing to Open Source
-- ⚡ Exploring Distributed Systems, gRPC, Microservices, and Cloud Infrastructure
+## 🚀 What I'm Working On
 
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kbpramod7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kbpramod7@gmail.com) 
+- 🔧 Building production backend systems at **WeCatchAI**
+- 🤖 Building AI-powered developer tools and LLM pipelines
+- ⚙️ Exploring distributed systems, event-driven architecture, and system design
+- 🛠️ Building and shipping independent products
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🧰 Tech Stack
 
-🌟 Interests
+**Languages**
 
-- Backend Engineering
-- Distributed Systems
-- System Design
-- Developer Tools
-- Open Source
+Java · Python · TypeScript · JavaScript · Go
 
-📫 Connect with me
+**Backend**
 
-- LinkedIn: https://linkedin.com/in/Kbpramod7
-- Email: kbpramod7@gmail.com
+Node.js · FastAPI · Spring Boot · Fastify · REST APIs · gRPC
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kbpramod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kbpramod&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kbpramod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Databases & Messaging**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kbpramod&limit=5&theme=dark&combine_all_yearly_contributions=true)
+PostgreSQL · MSSQL · MySQL · Redis · RabbitMQ · BullMQ
+
+**AI**
+
+LLMs · RAG · Embeddings · Vector Search · AI Agents
+
+**Infrastructure**
+
+Docker · AWS · Azure · GitHub Actions · CI/CD
+
+## 🔨 Selected Projects
+
+### ⚡ Order Execution Engine
+
+A distributed trading backend supporting market, limit, and sniper orders.
+
+- Asynchronous order processing with BullMQ workers
+- Redis-based price-bucket indexing
+- Redis Streams and WebSockets for real-time updates
+- Deterministic retries and dead-letter queues
+- Load tested at ~127 req/s with 300 concurrent virtual users
+
+**Node.js · TypeScript · Redis · BullMQ · PostgreSQL · WebSockets · Docker**
+
+### 🤖 Tzylo — Engineering Knowledge Agent
+
+An AI-powered developer tool that analyzes GitHub repositories and pull requests to generate engineering findings and documentation.
+
+- Processed 120+ pull requests across 23 repositories
+- Generated 500+ engineering findings
+- Repository-aware AI pipeline
+- RAG-based knowledge retrieval
+- GitHub API integration
+
+**Python · FastAPI · PostgreSQL · Redis · RAG · LLMs · GitHub API**
+
+### 🔐 AuthService
+
+A plug-and-play authentication microservice built with Java and Spring Boot.
+
+- Registration and authentication
+- OTP-based verification
+- Refresh token rotation and revocation
+- Asynchronous processing with RabbitMQ
+- Redis-backed authentication workflows
+- Audit logging and automated tests
+
+**Java · Spring Boot · Spring Security · RabbitMQ · Redis · PostgreSQL**
+
+### 🧪 Autonomous Web Testing Agent
+
+An AI-powered web testing system that discovers web applications, generates Playwright tests, executes them, and adapts tests when applications change.
+
+**Python · LLMs · Playwright · Redis · Object Storage**
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kbpramod7)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kbpramod7@gmail.com)
+
 ---
 
-«"Keep learning. Keep building. Keep shipping."»
+> **Keep learning. Keep building. Keep shipping.**
